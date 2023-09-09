@@ -1,0 +1,229 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "fim_1bit",
+					"strict" : false
+				},
+				{
+					"name" : "sinal",
+					"strict" : false
+				},
+				{
+					"name" : "EAa1",
+					"strict" : false
+				},
+				{
+					"name" : "EAd1",
+					"strict" : false
+				},
+				{
+					"name" : "EAe1",
+					"strict" : false
+				},
+				{
+					"name" : "EAf1",
+					"strict" : false
+				},
+				{
+					"name" : "Sc1",
+					"strict" : false
+				},
+				{
+					"name" : "Sd1",
+					"strict" : false
+				},
+				{
+					"name" : "Sa1",
+					"strict" : false
+				},
+				{
+					"name" : "Sf1",
+					"strict" : false
+				},
+				{
+					"name" : "Sg1",
+					"strict" : false
+				},
+				{
+					"name" : "Sc2",
+					"strict" : false
+				},
+				{
+					"name" : "Sg2",
+					"strict" : false
+				},
+				{
+					"name" : "Sf2",
+					"strict" : false
+				},
+				{
+					"name" : "Sa2",
+					"strict" : false
+				},
+				{
+					"name" : "Se2",
+					"strict" : false
+				},
+				{
+					"name" : "Sb2",
+					"strict" : false
+				},
+				{
+					"name" : "Sd2",
+					"strict" : false
+				},
+				{
+					"name" : "EAc2",
+					"strict" : false
+				},
+				{
+					"name" : "EAe2",
+					"strict" : false
+				},
+				{
+					"name" : "EAa2",
+					"strict" : false
+				},
+				{
+					"name" : "EAd2",
+					"strict" : false
+				},
+				{
+					"name" : "EAf2",
+					"strict" : false
+				},
+				{
+					"name" : "EAb2",
+					"strict" : false
+				},
+				{
+					"name" : "EAg2",
+					"strict" : false
+				},
+				{
+					"name" : "EBf1",
+					"strict" : false
+				},
+				{
+					"name" : "EBa1",
+					"strict" : false
+				},
+				{
+					"name" : "EBd1",
+					"strict" : false
+				},
+				{
+					"name" : "EBe1",
+					"strict" : false
+				},
+				{
+					"name" : "EBc2",
+					"strict" : false
+				},
+				{
+					"name" : "EBe2",
+					"strict" : false
+				},
+				{
+					"name" : "EBa2",
+					"strict" : false
+				},
+				{
+					"name" : "EBd2",
+					"strict" : false
+				},
+				{
+					"name" : "EBf2",
+					"strict" : false
+				},
+				{
+					"name" : "EBg2",
+					"strict" : false
+				},
+				{
+					"name" : "EBb2",
+					"strict" : false
+				},
+				{
+					"name" : "Se1",
+					"strict" : false
+				},
+				{
+					"name" : "fim[4]",
+					"strict" : false
+				},
+				{
+					"name" : "fim[3]",
+					"strict" : false
+				},
+				{
+					"name" : "fim[2]",
+					"strict" : false
+				},
+				{
+					"name" : "fim[1]",
+					"strict" : false
+				},
+				{
+					"name" : "fim[0]",
+					"strict" : false
+				},
+				{
+					"name" : "A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "A[4]",
+					"strict" : false
+				},
+				{
+					"name" : "B[4]",
+					"strict" : false
+				},
+				{
+					"name" : "A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "S[1]",
+					"strict" : false
+				},
+				{
+					"name" : "S[0]",
+					"strict" : false
+				},
+				{
+					"name" : "S[2]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
